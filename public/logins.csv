@@ -1,0 +1,2 @@
+customer_id,count,year,month,day,hour
+row['customer_id'],row['count'],row['year'],row['month'],row['day'],row['hour']
